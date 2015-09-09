@@ -1,6 +1,6 @@
 # A Smart Light Switch using Bluetooth LE 
 
-![Smart Light Switch](https://raw.githubusercontent.com/MakeBluetooth/smart-light-switch/master/ble-smart-switch.jpg)
+![Smart Light Switch](https://raw.githubusercontent.com/MakeBluetooth/smart-light-switch/master/light-switch-with-ble.jpg)
 
 One of the real problems with the current generation of smart light bulbs, is that the smarts are in the bulb.
 
