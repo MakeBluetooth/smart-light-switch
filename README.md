@@ -24,4 +24,4 @@ We'll need the following hardware to build the light switch:
  * Jumper wires
  * A tactile button switch 
  
-optionally you can use a [PowerSwitch Tail](http://www.makershed.com/products/powerswitch-tail-ii) to control a real world lamp using your switch, not just an LED.
+You can use also use a [PowerSwitch Tail](http://www.makershed.com/products/powerswitch-tail-ii) to control a real world lamp using your switch, not just an LED.
