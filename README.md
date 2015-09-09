@@ -25,3 +25,5 @@ We'll need the following hardware to build the light switch:
  * A tactile button switch 
  
 You can use also use a [PowerSwitch Tail](http://www.makershed.com/products/powerswitch-tail-ii) to control a real world lamp using your switch.
+
+![Switch with PowerSwitch Tail](https://raw.githubusercontent.com/MakeBluetooth/smart-light-switch/master/ble-light-with-powertail.png)
