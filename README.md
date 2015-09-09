@@ -24,6 +24,8 @@ We'll need the following hardware to build the light switch:
  * Jumper wires
  * A tactile button switch 
  
-You can use also use a [PowerSwitch Tail](http://www.makershed.com/products/powerswitch-tail-ii) to control a real world lamp using your switch.
+You can use also use a [PowerSwitch Tail](http://www.makershed.com/products/powerswitch-tail-ii) to control a real world lamp using your switch instead of a breadboarded LED.
 
 ![Switch with PowerSwitch Tail](https://raw.githubusercontent.com/MakeBluetooth/smart-light-switch/master/ble-light-with-powertail.png)
+
+Since the PowerSwitch Tail needs to be pulled LOW to turn the mains powered device on, our code is identical to our LED example but with opposite logic for the pin controlling the Tail.
