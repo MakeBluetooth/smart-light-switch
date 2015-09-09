@@ -1,5 +1,7 @@
 # A Smart Light Switch using Bluetooth LE 
 
+![Smart Light Switch](https://raw.githubusercontent.com/MakeBluetooth/smart-light-switch/master/ble-smart-switch.jpg)
+
 One of the real problems with the current generation of smart light bulbs, is that the smarts are in the bulb.
 
 While they have been held up as a massive Internet of Things success story possibly, in the longer term, this will be not turn out to be the case. Because light bulbs are something that you turn on, and off, from a switch in the wall.
